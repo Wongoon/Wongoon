@@ -1,5 +1,9 @@
-### Hi there 👋
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Wongoon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+
+[![Github](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/Wongoon)
+</div>
 <!--
 **Wongoon/Wongoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
